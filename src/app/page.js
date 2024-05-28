@@ -113,7 +113,7 @@ function page() {
                   <p className="font-semibold" style={{color:'#FFF4D5'}}>NFC Business Card</p>
                 </div>
                 <div className="py-2 flex justify-center">
-                  <p className="text-white text-center">Make a personalized NFC business card for your company's needs.</p>
+                  <p className="text-white text-center">Make a personalized NFC business card for your companys needs.</p>
                 </div>
                 </div>
                 <div className="border border-white rounded-md p-4" style={{background:'#4F6367'}}>
