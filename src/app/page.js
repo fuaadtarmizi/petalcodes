@@ -7,10 +7,10 @@ function page() {
   
     <main>
       <>
-      <div className="w-full flex justify-center">
-      <div className="max-w-screen-sm">
-      <div className="container">
-      <div className="w-full flex justify-center">
+      <div className="flex justify-center">
+      <div className="w-svw">
+      <div className="mx-auto overflow-hidden">
+      <div className="flex justify-center">
       <section>
       <div className="mx-auto overflow-hidden">
         <Image 
@@ -96,7 +96,7 @@ function page() {
               <p className="text-white text-2xl font-semibold" style={{color:'#F4C095'}}>SERVICES</p><svg width="100"height="30"viewBox="0 0 200 100"fill="none" xmlns="http://www.w3.org/2000/svg"> <line x1="0" y1="50" x2="300" y2="50" stroke="#F4C095" strokeWidth="2"/></svg>
             </div>
             <section>
-              <div className="grid grid-cols-2 gap-8">
+              <div className="grid grid-cols-1 gap-8">
                 <div className="border border-white rounded-md p-4" style={{background:'#4F6367'}}>
                 <div className="py-2 flex justify-center">
                   <Image 
